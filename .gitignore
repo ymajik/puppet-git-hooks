@@ -1,1 +1,4 @@
 .project
+.bundle/
+vendor/
+Gemfile.lock
